@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
-  <img align="right" src="https://user-images.githubusercontent.com/114515298/193723265-0f7f918f-a339-4617-affc-95382f5846e5.png" width="250px" />
+  <img align="right" src="https://user-images.githubusercontent.com/114515298/193723265-0f7f918f-a339-4617-affc-95382f5846e5.png" width="200px" />
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougfsanti&show_icons=true&theme=dark)
