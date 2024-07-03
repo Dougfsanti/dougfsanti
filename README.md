@@ -27,4 +27,27 @@ Neste perfil, você encontrará alguns de meus projetos de automação de testes
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
   
-  ##
+<div class=markingdown-heading" dir="auto">
+  <h2 class=heading-element" dir="auto">DevOps</h2>
+  <a id="user-content-devops" class="anchor" arial-label="Permalink:DevOps" href="#devops">
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aff35a319c7e83a0f645037705c539a76c02e45c7904c0318f51ecb4b8b2231b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d4a697261266c6f676f436f6c6f723d7768697465">
+  <img alt="jira" src="https://camo.githubusercontent.com/aff35a319c7e83a0f645037705c539a76c02e45c7904c0318f51ecb4b8b2231b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d4a697261266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=Jira&amp;logoColor=white" style="max-width: 100%;"></a>
+ 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0adf4d855400cf3fe5a37945fd8e769dfd1351b3d06eb7a3c4f4b313d8eb9262/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417a7572655f4465764f70732d3030373844373f7374796c653d666f722d7468652d6261646765266c6f676f3d617a7572652d6465766f7073266c6f676f436f6c6f723d7768697465">
+<img alt="azure" src="https://camo.githubusercontent.com/0adf4d855400cf3fe5a37945fd8e769dfd1351b3d06eb7a3c4f4b313d8eb9262/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417a7572655f4465764f70732d3030373844373f7374796c653d666f722d7468652d6261646765266c6f676f3d617a7572652d6465766f7073266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&amp;logo=azure-devops&amp;logoColor=white" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c6d6ba55cc0b4f5f2efedf3c1dd4eb7c6899bee064b0b46b51d7323314aed1d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a656e6b696e732d4432343933393f7374796c653d666f722d7468652d6261646765266c6f676f3d4a656e6b696e73266c6f676f436f6c6f723d7768697465">
+  <img alt="git" src="https://camo.githubusercontent.com/c6d6ba55cc0b4f5f2efedf3c1dd4eb7c6899bee064b0b46b51d7323314aed1d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a656e6b696e732d4432343933393f7374796c653d666f722d7468652d6261646765266c6f676f3d4a656e6b696e73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=Jenkins&amp;logoColor=white" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8608a6316b9d88ea49559b15837c90b1c14fb172ca6743b50150cd54f208e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465">
+<img alt="github" src="https://camo.githubusercontent.com/e8608a6316b9d88ea49559b15837c90b1c14fb172ca6743b50150cd54f208e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/17581e3e5b3bf01f7bdbd9814308f06fb90a0dca860d4fce29531485278808b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d3333304636333f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465">
+<img alt="gitlab" src="https://camo.githubusercontent.com/17581e3e5b3bf01f7bdbd9814308f06fb90a0dca860d4fce29531485278808b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d3333304636333f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" style="max-width: 100%;"></a>
+
+
+  
+
+
+  
