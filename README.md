@@ -1,4 +1,8 @@
-### Olá, eu sou o Douglas 🖐️
+✨ Olá, eu sou o Douglas 🖐️
+
+Um entusiasta da qualidade, apaixonado por automação de testes, sempre em busca de conhecimento e novos desafios.
+
+Neste perfil, você encontrará alguns de meus projetos de automação de testes, assim como projetos de desenvolvimento para prática em JavaScript, Java e outras linguagens.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-fernandes-santianni-7384bb163/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglas.santianni/) 
