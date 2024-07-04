@@ -29,12 +29,11 @@ Quer me conhecer melhor? Acesse minhas redes sociais clicando nos logos abaixo:
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
-  
-<div class=markingdown-heading" dir="auto">
-  <h2 class=heading-element" dir="auto">DevOps</h2>
-  <a id="user-content-devops" class="anchor" arial-label="Permalink:DevOps" href="#devops">
 
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aff35a319c7e83a0f645037705c539a76c02e45c7904c0318f51ecb4b8b2231b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d4a697261266c6f676f436f6c6f723d7768697465">
+##DevOps
+  <div style="display: inline_block"><br/>
+  <div style="display: inline_block">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aff35a319c7e83a0f645037705c539a76c02e45c7904c0318f51ecb4b8b2231b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d4a697261266c6f676f436f6c6f723d7768697465">
   <img alt="jira" src="https://camo.githubusercontent.com/aff35a319c7e83a0f645037705c539a76c02e45c7904c0318f51ecb4b8b2231b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d4a697261266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=Jira&amp;logoColor=white" style="max-width: 100%;"></a>
  
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0adf4d855400cf3fe5a37945fd8e769dfd1351b3d06eb7a3c4f4b313d8eb9262/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417a7572655f4465764f70732d3030373844373f7374796c653d666f722d7468652d6261646765266c6f676f3d617a7572652d6465766f7073266c6f676f436f6c6f723d7768697465">
@@ -48,6 +47,7 @@ Quer me conhecer melhor? Acesse minhas redes sociais clicando nos logos abaixo:
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/17581e3e5b3bf01f7bdbd9814308f06fb90a0dca860d4fce29531485278808b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d3333304636333f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465">
 <img alt="gitlab" src="https://camo.githubusercontent.com/17581e3e5b3bf01f7bdbd9814308f06fb90a0dca860d4fce29531485278808b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d3333304636333f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" style="max-width: 100%;"></a>
+</div>
 
 ## Banco de dados
 <div style="display: inline_block"><br/>
@@ -60,6 +60,7 @@ Quer me conhecer melhor? Acesse minhas redes sociais clicando nos logos abaixo:
 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4ae569342c64ecd9f0d7e7cbed78fffcca6a0f427e8efb4297c1d357dfb09074/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465">
   <img alt="mongodb" src="https://camo.githubusercontent.com/4ae569342c64ecd9f0d7e7cbed78fffcca6a0f427e8efb4297c1d357dfb09074/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
+</div>
 
 ## Ferramentas, Frameworks e Bibliotecas
 <div style="display: inline_block"><br/>
@@ -87,6 +88,7 @@ Quer me conhecer melhor? Acesse minhas redes sociais clicando nos logos abaixo:
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/513e03fc97acb466e27d445394532ade8d90363a266a4e8ff9526e2c49db0f67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465">
 <img alt="vscodestudio" src="https://camo.githubusercontent.com/513e03fc97acb466e27d445394532ade8d90363a266a4e8ff9526e2c49db0f67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" style="max-width: 100%;"></a>
+</div>
 
 ## Testes
 <div style="display: inline_block"><br/>
@@ -108,7 +110,6 @@ Quer me conhecer melhor? Acesse minhas redes sociais clicando nos logos abaixo:
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/55853014313228c90e18b233607d99c22cf469f7edcd4e87d660f904e0027d74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c61797772696768742d3435626134623f7374796c653d666f722d7468652d6261646765266c6f676f3d506c6179777269676874266c6f676f436f6c6f723d7768697465">
 <img alt="swagger" src="https://camo.githubusercontent.com/55853014313228c90e18b233607d99c22cf469f7edcd4e87d660f904e0027d74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c61797772696768742d3435626134623f7374796c653d666f722d7468652d6261646765266c6f676f3d506c6179777269676874266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&amp;logo=Playwright&amp;logoColor=white" style="max-width: 100%;"></a>
-
 </div>
 
 
