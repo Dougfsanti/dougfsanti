@@ -30,7 +30,7 @@ Quer me conhecer melhor? Acesse minhas redes sociais clicando nos logos abaixo:
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-##DevOps
+## DevOps
   <div style="display: inline_block"><br/>
   <div style="display: inline_block">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/aff35a319c7e83a0f645037705c539a76c02e45c7904c0318f51ecb4b8b2231b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d4a697261266c6f676f436f6c6f723d7768697465">
