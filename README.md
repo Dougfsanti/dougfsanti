@@ -46,6 +46,21 @@ Neste perfil, você encontrará alguns de meus projetos de automação de testes
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/17581e3e5b3bf01f7bdbd9814308f06fb90a0dca860d4fce29531485278808b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d3333304636333f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465">
 <img alt="gitlab" src="https://camo.githubusercontent.com/17581e3e5b3bf01f7bdbd9814308f06fb90a0dca860d4fce29531485278808b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d3333304636333f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" style="max-width: 100%;"></a>
 
+## Banco de dados
+<div style="display: inline_block"><br/>
+<div style="display: inline_block">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c1c08eb7625abe1a813e5ad05a94891aa127a37e0ce126b59ecda28233effdac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
+    <img alt="mysql" src="https://camo.githubusercontent.com/c1c08eb7625abe1a813e5ad05a94891aa127a37e0ce126b59ecda28233effdac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6854ba9612c2cb025e7c65445787d93f6436d4691303601506e0bc28be2ae9b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465">
+  <img alt="postgresql" src="https://camo.githubusercontent.com/6854ba9612c2cb025e7c65445787d93f6436d4691303601506e0bc28be2ae9b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;"></a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4ae569342c64ecd9f0d7e7cbed78fffcca6a0f427e8efb4297c1d357dfb09074/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465">
+  <img alt="mongodb" src="https://camo.githubusercontent.com/4ae569342c64ecd9f0d7e7cbed78fffcca6a0f427e8efb4297c1d357dfb09074/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
+   
+  
+</div>
+
 
   
 
